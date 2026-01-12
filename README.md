@@ -1,11 +1,11 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit 
 
-# How to Get Heart Rate as Real Time with Sensor kit via Wear Engine for Android?
+# How-to-Get-Heart-Rate-with-SensorKit
 This app demonstrates an application that runs with **HarmonyOS Next** wearable devices. It enables seamless interaction between the wearable and a paired mobile device by combining real-time sensor data. Users can track their heart rate instantly, share it with their phone.
 
 # Preview
 <div>
-   <img src="./screenshots/HeartRateOutput.png" width="25%"/>
+<img src="./screenshots/HeartRateOutput.png" width="25%"/>
 </div>
 
 # Use Cases

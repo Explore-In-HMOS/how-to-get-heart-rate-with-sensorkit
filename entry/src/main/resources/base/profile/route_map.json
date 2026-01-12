@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "SendToPhone",
+      "pageSourceFile": "src/main/ets/pages/SendToPhone.ets",
+      "buildFunction": "SendToPhoneBuilder"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "module": {
-    "name": "application",
+    "name": "entry",
     "type": "feature",
     "description": "$string:module_desc",
     "mainElement": "HiWearMainAbility",
@@ -43,6 +43,7 @@
         "name": "wearEngineRemoteAppNameList",
         "value": "YOUR_PHONE_APP_BUNDLE_NAME"
       }
-    ]
+    ],
+    "routerMap": "$profile:route_map"
   }
 }
